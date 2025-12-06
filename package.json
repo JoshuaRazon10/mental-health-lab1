@@ -1,0 +1,14 @@
+{
+  "name": "mentalhealthwellnesscompanion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aitest.js",
+  "scripts": {
+    "start": "node aitest.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
